@@ -1,0 +1,133 @@
+.header_block{
+	padding: 10px 0px;
+    width: 100%;
+    float: left;
+}
+.logo{
+	width: 100%;
+}
+logo img {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.logo h1{
+	float: right;
+	color: black;
+	font-size: 20px;
+}
+
+/*footer2*/
+.footer2{
+    float: left;
+    width: 100%;
+    padding: 28px 0px 28px 0px;
+    background-color: #4DAAE0;
+}
+.footnav {
+    float: left;
+    width: 100%;
+}
+.footnav a {
+    float: left;
+    margin-right: 50px;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+}
+.footnav p {
+    float: right;
+    font-size: 13px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+.footnav p a {
+    float: right;
+    margin-right: 0px;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+}
+.footnav p a:hover {
+ color: black;
+}
+.bann_er{
+	width: 100%;
+	padding: 100px 0px;
+	float: left;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*footer2 end*/
+
+.content {
+    text-align: center;
+    color: whitesmoke;
+}
+.buttonbnr {
+    width: 50%;
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;
+    border: 1px solid lightgrey;
+    border-radius: 9px;
+}
+.buttonbnr p {
+    font-family: roboto;
+    font-size: 12px;
+    font-style: normal;
+
+    margin-top: 10px;
+    color: white;
+}
+.footnav p a {
+    float: right;
+    margin-right: 0px;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+}
+.footnav p {
+    float: right;
+    font-size: 13px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+.footnav {
+    float: left;
+    width: 100%;
+}
+@media (max-width: 575px){
+.footnav {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.footnav p {
+    float: none;
+    margin-top: 15px;
+    font-size: 12px;
+    text-align: center;
+}
+.footer2 {
+    padding: 20px 0px 20px 0px;
+}
+.footnav p a {
+    font-size: 12px;
+    float: none!important;
+    text-align: center;
+}
+}
