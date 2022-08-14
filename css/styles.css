@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .header_block{
 	padding: 10px 0px;
     width: 100%;
@@ -131,3 +135,104 @@ logo img {
     text-align: center;
 }
 }
+.menunav_area{
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    background-color: #E8D3B9;
+}
+.heading{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    width: 100%;
+    font-family: roboto;
+}
+.heading1{
+    text-align: left;
+    display: block;
+    width: 100%;
+    font-family: roboto;
+ 
+}
+.heading1 h1{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+.button_area{
+    width: 100%;
+    padding: 10px 0px;
+}
+.button{
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 6px 0px 0px 6px;
+}
+.button h4{
+    text-decoration: none;
+    margin: 0px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: black;
+    padding: 10px 0px;
+     font-size: 10px;
+ font-family: roboto;
+}
+.button1{
+    width: 100%;
+    float: left;
+    background-color: white;
+     margin-bottom: 10px;
+      border-radius: 0px 6px 6px 0px;
+}
+.button1 h4{
+    text-decoration: none;
+    margin: 0px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: black;
+ padding: 10px 0px;
+ font-size: 10px;
+ font-family: roboto;
+}
+.main_sec{
+    width: 100%;
+    float: left;
+     padding: 0px 0px 20px 0px;
+    background-color: #E8D3B9;
+}
+.food_box{
+    width: 100%;
+    float: left;
+    background-color: white;
+    padding: 10px 0px;
+    border-radius: 23px;
+    margin-bottom: 20px;
+}
+.food_box img {
+    float: left;
+    margin-bottom: auto;
+    margin-top: auto;
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 0px 10px;
+    border-radius: 100%;
+}
+.food_box h1 {
+    font-size: 25px;
+    padding: 15px 10px 0px 0px;
+    font-style: bold;
+}
+.food_box h3{
+font-size: 15px;
+font-style:  italic;
+}
+
