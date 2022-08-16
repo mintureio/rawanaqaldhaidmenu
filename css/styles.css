@@ -238,3 +238,31 @@ font-style:  italic;
 font-weight: bold;
 }
 
+.main_sec1 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    background-color: #E8D3B9;
+}
+.main_sec1 h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: roboto;
+    font-size: 35px;
+    padding: 200px 0px 0px 0px;
+    color: white;
+}
+.menunav_area1 {
+    width: 100%;
+    float: left;
+    padding: 20px 0px 70px 0px;
+    background-color: #E8D3B9;
+}
+.circle{
+    width: 100%;
+    float: left;
+}
+.circle img{
+    width: 100%;
+    float: left;
+}
