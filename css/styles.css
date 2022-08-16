@@ -244,12 +244,12 @@ font-weight: bold;
     padding: 0px 0px 0px 0px;
     background-color: #E8D3B9;
 }
-.main_sec1 h1{
+.welcome h1{
     text-align: center;
     font-weight: bold;
     font-family: roboto;
     font-size: 35px;
-    padding: 200px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
     color: white;
 }
 .menunav_area1 {
@@ -265,4 +265,18 @@ font-weight: bold;
 .circle img{
     width: 100%;
     float: left;
+}
+.welcome{
+    width: 100%;
+    float: left;
+    padding: 200px 0px 0px 0px;
+}
+.welcome img{
+    width: 70px;
+    height: auto;
+    border-radius: 16px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+float: none;
 }
